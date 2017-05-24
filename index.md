@@ -1,4 +1,5 @@
 ## Welcome to queboid
+[About Us](https://queboid.github.io/about.html)
 
 You can use the [editor on GitHub](https://github.com/queboid/queboid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to queboid
 
 You can use the [editor on GitHub](https://github.com/queboid/queboid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# IT Trainings
+## Networking Secuity and Programming
+### This site is still under construction.
+[queboid site](www.queboid.com)
 
 - Bulleted
 - List
